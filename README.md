@@ -15,7 +15,7 @@ the Configure and Use
 Firstly, `QingyingptAPI = require('./')` and 
 ```javascript
 var qpt = new QingyingptAPI({
-        addr : 'pt.hit.edu.cn',
+        host : 'pt.hit.edu.cn',
         port : 80,
         cookie : {
                 id : 'your hit_UID',
