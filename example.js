@@ -3,7 +3,7 @@ var QingyingptAPI = require('./');
 var fs = require('fs');
 
 var qpt = new QingyingptAPI({
-        addr : 'pt.hit.edu.cn',
+        host : 'pt.hit.edu.cn',
         port : 80,
         cookie : {
                 id : 'your hit_uid',
