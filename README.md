@@ -4,6 +4,10 @@ QingyingptAPI
 
 API 23333
 
+ANNOUNCE 2014-12-22
+------------
+This API will be deprecated due to QYPT-Open-API.
+
 
 the Goal
 ------------
