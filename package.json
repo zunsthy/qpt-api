@@ -1,14 +1,14 @@
 {
-  author: ZunSThy <zunsthy@gmail.com>,
-  name: QingyingptAPI,
-  description: API client for nodeJS,
-  version: 0.0.0.2,
-  repository: {
-    type: git,
-    url: git://github.com/ZunSThy/QingyingptAPI.git
+  "author": "ZunSThy <zunsthy@gmail.com>",
+  "name": "QingyingptAPI",
+  "description": "API client for nodeJS",
+  "version": "0.0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ZunSThy/QingyingptAPI.git"
   },
-  main: lib/qpt_coreAPI,
-  devDependencies : {
-  progress: 1.1.x
+  "main": "lib/qpt_coreAPI",
+  "devDependencies" : {
+		"progress": "1.1.x"
   }
 }
